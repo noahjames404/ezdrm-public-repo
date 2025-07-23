@@ -2,7 +2,7 @@ var browser = 'Non-DRM browser';
 var drmType = 'No DRM';
 
 // Replace the DASH and HLS URIs when you test your own content. 
-var dashUri = 'https://raw.githubusercontent.com/noahjames404/ezdrm-public-repo/refs/heads/main/video/example.mpd';
+var dashUri = 'https://raw.githubusercontent.com/noahjames404/ezdrm-public-repo/refs/heads/main/video/dash.mpd';
 var hlsUri = 'https://na-fps.ezdrm.com/demo/ezdrm/master.m3u8';
 
 
